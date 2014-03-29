@@ -29,3 +29,5 @@ We want to get local developers together to eat food, drink beer, and talk about
 * [Norfolk.js](http://twitter.com/norfolkjs)
 * [Linda Nichols](http://twitter.com/lynnaloo)
 * [Travis Webb](http://twitter.com/traviswebbusa)
+* [Brandon Flade](http://twitter.com/_bmf_)
+* [Stanley Zheng](http://twitter.com/StanZheng)
