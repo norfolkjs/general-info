@@ -1,4 +1,4 @@
-## Norfolk.js Code of Conduct ##
+# Norfolk.js Code of Conduct #
 
 All members of Norfolk.js are required to agree with the following code of
 conduct. Cooperation with this Code of Conduct from all participants helps to
