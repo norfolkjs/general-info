@@ -40,4 +40,5 @@ We expect participants to follow these rules at meeting and workshop venues and 
 Feel free to contact any of the organizers identifies on the [website](http://www.norfolkjs.org/contact/index.html)
 or [meetup page](http://www.meetup.com/NorfolkJS/members/?op=leaders).
 
-*Adapted from: [Conference Code of Conduct](http://confcodeofconduct.com/)*-
+
+*Adapted from: [Conference Code of Conduct](http://confcodeofconduct.com/)*
