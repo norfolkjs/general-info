@@ -1,4 +1,4 @@
-## Norfolk.js Code of Conduct ##
+# Norfolk.js Code of Conduct #
 
 All members of Norfolk.js are required to agree with the following code of
 conduct. Cooperation with this Code of Conduct from all participants helps to
@@ -40,4 +40,5 @@ We expect participants to follow these rules at meeting and workshop venues and 
 Feel free to contact any of the organizers identifies on the [website](http://www.norfolkjs.org/contact/index.html)
 or [meetup page](http://www.meetup.com/NorfolkJS/members/?op=leaders).
 
-*Adapted from: [Conference Code of Conduct](http://confcodeofconduct.com/)*-
+
+*Adapted from: [Conference Code of Conduct](http://confcodeofconduct.com/)*
