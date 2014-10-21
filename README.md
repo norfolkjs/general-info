@@ -18,6 +18,10 @@ We want to get local developers together to eat food, drink beer, and talk about
 
 [Norfolk.js wiki](https://github.com/norfolkjs/general-info/wiki)
 
+#### See information from previous meetings
+
+Announcements: https://rawgit.com/norfolkjs/general-info/master/announcements/[month]_[year].html#/
+
 #### Post a comment, question, or idea
 
 [Issue tracker](https://github.com/norfolkjs/general-info/issues)
