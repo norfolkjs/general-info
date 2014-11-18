@@ -4,6 +4,8 @@ Norfolk.js is a JavaScript development user group in Norfolk, VA.
 
 We want to get local developers together to eat food, drink beer, and talk about anything and everything JavaScript.
 
+Our primary requirement is to make our events accessible to everyone who wants to attend. We also want all of those in attendence to feel comfortable in their surroundings and with those around them. If we're not meeting these requirements, then feel free to put in an [issue](https://github.com/norfolkjs/general-info/issues), or email any one of the organizers.
+
 ## Want more information?
 
 #### Check out our Website
