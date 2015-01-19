@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Norfolk.js Meetup Announcements</title>
+
+    <meta name="description" content="A JavaScript User Group in Norfolk, VA">
+    <meta name="author" content="Norfolk.js">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link rel="stylesheet" href="css/reveal.min.css">
+    <link rel="stylesheet" href="css/theme/night.css" id="theme">
+
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+    <script>
+    if (window.location.search.match(/print-pdf/gi)) {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'css/print/pdf.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    }
+    </script>
+
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    .callout {
+        color: #e7ad52;
+    }
+    .black_logo {
+        background-color: white;
+    }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="reveal">
+
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+            <section>
+                <h1><span class="callout">Norfolk.js</span><br /> All The Things!</h1>
+                <h3>January 19th, 2015</h3>
+                <p>
+                    <small>Created by <a href="http://www.norfolkjs.org">Norfolk.js</a> / <a href="http://twitter.com/norfolkjs">@norfolkjs</a></small>
+                </p>
+            </section>
+
+
+
+
+            <section>
+                <h2>Hello World!</h2>
+                <ul>
+                    <li><a href="http://www.meetup.com/NorfolkJS/">Meetup</a> check in registers you for our raffle.</li>
+                    <li>Join the 757dev Slack chat! Sign-up at <a href="http://757dev.org">757dev.org</a>
+                    </li>
+                    <li>We now have 200+ members</li>
+                    <li>50% off of books through <a href="https://www.packtpub.com/">Packt Publisher</a> (code: JAitlhI0)</li>
+                </ul>
+            </section>
+
+            <section>
+              <h2>What's Your Project?</h2>
+              <ul>
+                <li><a href="https://github.com/norfolkjs/local-projects">https://github.com/norfolkjs/local-projects</a></li>
+                <li>757dev Slack channel #showntell</li>
+              </ul>
+            </section>
+
+            <section>
+              <h2>Thank You</h2>
+              <p>
+                <img src="./img/8020Badge_Web.png" alt="8020 Logo" />
+              </p>
+              <p>
+                <img src="./img/hatch.png" alt="Hatch Logo" />
+              </p>
+            </section>
+
+
+
+            <section>
+                <h2>Upcoming Events</h2>
+                <ul>
+                	  <li><a href="http://www.chrysler.org/exhibitions/the-art-of-video-games/">Art of Video Games</a> @ Chrysler Museum (2/13)</li>
+                    <li>Sharpen Your Saw (Part 2) with Steve Hackbarth (2/17)</li>
+                </ul>
+            </section>
+
+            <section><h2>Raffle</h2></section>
+
+            <section>
+                <h2>Our Featured Speaker:</h2>
+                <h1><span class="callout">Travis Webb</span></h1>
+                <h3>JavaScript Next: ECMAScript 6</h3>
+            </section>
+
+        </div>
+
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.min.js"></script>
+
+    <script>
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Parallax scrolling
+        // parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+        // parallaxBackgroundSize: '2100px 900px',
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [{
+            src: 'lib/js/classList.js',
+            condition: function() {
+                return !document.body.classList;
+            }
+        }, {
+            src: 'plugin/markdown/marked.js',
+            condition: function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src: 'plugin/markdown/markdown.js',
+            condition: function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src: 'plugin/highlight/highlight.js',
+            async: true,
+            callback: function() {
+                hljs.initHighlightingOnLoad();
+            }
+        }, {
+            src: 'plugin/zoom-js/zoom.js',
+            async: true,
+            condition: function() {
+                return !!document.body.classList;
+            }
+        }, {
+            src: 'plugin/notes/notes.js',
+            async: true,
+            condition: function() {
+                return !!document.body.classList;
+            }
+        }]
+    });
+    </script>
+
+</body>
+
+</html>
