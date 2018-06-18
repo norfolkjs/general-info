@@ -22,7 +22,7 @@ Our primary requirement is to make our events accessible to everyone who wants t
 
 #### See information from previous meetings
 
-Announcements: https://rawgit.com/norfolkjs/general-info/master/announcements/[month]_[year].html#/
+Announcements: https://rawgit.com/norfolkjs/general-info/master/announcements/[year]/[month]_[year].html#/
 
 #### Post a comment, question, or idea
 
