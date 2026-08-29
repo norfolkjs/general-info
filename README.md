@@ -10,7 +10,7 @@ Our primary requirement is to make our events accessible to everyone who wants t
 
 #### Check out our Website
 
-[norfolkjs.org](http://norfolkjs.org)
+[norfolkjs.com](http://norfolkjs.com)
 
 #### Come to a meetup
 
